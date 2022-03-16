@@ -1,0 +1,31 @@
+body{
+    background-color: lemonchiffon ;
+}
+
+h1{
+    color: orangered;
+}
+#Your_sketch{
+    color: purple;
+    font-size: 25px;
+}
+
+#Confidence{
+    color: purple;
+    font-size: 25px;
+}
+
+#label{
+    font-size: 30px;
+    color: brown;
+}
+
+#score{
+    font-size: 20px;
+    color: crimson;
+}
+#time{
+    font-size: 20px;
+    color: crimson;
+    margin-left: 1050px;
+}
